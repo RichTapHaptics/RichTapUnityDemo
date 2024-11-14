@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.richtap-haptics.core": "file:/Users/yaozhizhong/richtap_pocs_v2/Unity/RichTap Haptics",
+    "com.richtap-haptics.core": "file:D:/Codes/richtap_pocs_v2/Unity/RichTap Haptics",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.ide.rider": "3.0.16",
     "com.unity.ide.visualstudio": "2.0.16",
