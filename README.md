@@ -1,6 +1,8 @@
 # RichTapUnityDemo
 
-本工程依据Unity 3D Beginner: [Roll-a-Ball Game](https://learn.unity.com/project/roll-a-ball)官方教程制作而成，目的是展示RichTap Haptics插件的使用。在打开工程之前，请首先联系 bd@richtap-haptics.com 获取完整的插件包；打开工程时忽略错误，然后重新导入本地的RichTap插件包。  
+本工程依据Unity 3D Beginner: [Roll-a-Ball Game](https://learn.unity.com/project/roll-a-ball)官方教程制作而成，目的是展示RichTap Haptics插件的使用。在打开工程之前，请首先联系 bd@richtap-haptics.com 获取完整的插件包；打开工程时请暂时忽略错误提示，然后在编辑器里重新导入本地的RichTap插件包。  
+
+在 Assets | Scenes 目录里打开 MiniGame  
 
 **以下是在游戏中集成振动效果的一般步骤：**  
 1. 将振动效果.he文件放入Assets文件夹  
